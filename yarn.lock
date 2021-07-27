@@ -1150,7 +1150,7 @@
     xcode "^3.0.1"
     xml2js "^0.4.23"
 
-"@expo/config-plugins@3.0.5", "@expo/config-plugins@^3.0.0":
+"@expo/config-plugins@3.0.5", "@expo/config-plugins@^3.0.0", "@expo/config-plugins@^3.0.5":
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-3.0.5.tgz#9390403d7bf49bf35219c0922bf7bf6d81390988"
   integrity sha512-hHKr6i201QG16ms93XiXwcI1IhDYhITCRt7hWNO1UPxt2Cm7yDOG2YoGkauP0V/nAN3TEocDYbCrltGFBdoCTg==
